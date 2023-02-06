@@ -1,0 +1,31 @@
+Source,0,Home - dorm 1
+Source,1,Home - dorm 2
+Source,2,Home - dorm 3
+Source,3,Home - Kitchen
+Source,4,Home - Studio
+Source,5,Home - Living room
+Source,6,Office - Meeting room
+Source,7,Office - General room
+Source,8,Office - CEO office
+Source,9,Office - Canteen
+Event,0,Temperature[C],0,2023/01/06 17:00:00,18
+Event,1,Temperature[C],1,2023/01/06 17:00:00,18
+Event,2,Temperature[C],2,2023/01/06 17:00:00,18
+Event,3,Temperature[C],0,2023/01/07 17:00:00,16
+Event,4,Temperature[C],1,2023/01/07 17:00:00,16
+Event,5,Temperature[C],2,2023/01/07 17:00:00,16
+Event,6,Kitchen temperature[C],3,2023/01/15 10:30:00,20
+Event,7,Kitchen humidity[%],3,2022/12/13 10:30:00,20
+Event,8,Studio light[Bool],4,2023/01/13 18:00:00,1
+Event,9,Studio light[Bool],4,2023/01/05 22:30:00,0
+Event,10,Living room shades[%],5,2023/02/01 18:00:00,0
+Event,11,Living room shades[%],5,2023/01/15 21:00:00,80
+Event,12,Living room shades[%],5,2023/01/15 23:00:00,100
+Event,13,Air conditioner[C],6,2022/11/15 08:00:00,21
+Event,14,Air conditioner[C],6,2022/11/15 10:00:00,19
+Event,15,Air conditioner[C],7,2022/11/15 08:00:00,21
+Event,16,Air conditioner[C],7,2022/11/15 17:00:00,17
+Event,17,Air conditioner[C],8,2022/11/15 10:00:00,23
+Event,18,Air conditioner[C],8,2022/11/15 17:00:00,17
+Event,19,Roomba Cleaning,9,2022/11/15 15:00:00,1
+Event,20,Roomba Cleaning,9,2022/11/15 15:45:00,0
